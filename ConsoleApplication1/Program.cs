@@ -17,7 +17,7 @@ namespace ConsoleApplication1
             x.GetData(55);
             Console.ReadLine();
 
-           
+             
         }
     }
 
